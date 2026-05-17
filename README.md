@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT License">
-  <img src="https://img.shields.io/badge/skills-1-green" alt="Skills Count">
+  <img src="https://img.shields.io/badge/skills-2-green" alt="Skills Count">
 </p>
 
 ---
@@ -24,6 +24,7 @@ Claude Code · Cursor · Windsurf · Hermes Agent · Copilot · or any LLM with 
 | Skill | Description |
 |-------|-------------|
 | [**powerpoint**](skills/powerpoint/) | AI-powered PPT generation — 10+ visual styles, PptxGenJS code generation, built-in visual QA pipeline |
+| [**ppt-narrated-video**](skills/ppt-narrated-video/) | Turn a PPT/slide deck into a narrated video with per-slide TTS, ffmpeg sync, loudness normalization, and MP4 export |
 
 ## Quick Start
 
